@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Muhammad Solihuddin Rizky ",
+    "nrp": "5025241171",
+    "contact": {
+      "email": "5025241171@its.ac.id",
+      "github": "https://github.com/sholihdinrizky"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Syah Amin Zikri ",
+    "nrp": "5025241171",
+    "contact": {
+      "email": "5025241171@its.ac.id",
+      "github": "https://github.com/kifrx"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ananda Aryasatya Zhafran Aqila",
+    "nrp": "50252241142",
+    "contact": {
+      "email": "50252241142@its.ac.id",
+      "github": "https://github.com/azaregon"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Aziz Adi Pramana",
+    "nrp": "5025241195",
+    "contact": {
+      "email": "5025241195@its.ac.id",
+      "github": "https://github.com/azizadipramana"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Rafi Attar Maulana",
+    "nrp": "5025241141",
+    "contact": {
+      "email": "5025241141@its.ac.id",
+      "github": "https://github.com/StillFurball"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Abdurrahman Ar-Rafi Ravsan Zarnadi",
+    "nrp": "5025241241",
+    "contact": {
+      "email": "5025241241@its.ac.id",
+      "github": "https://github.com/praisethefools"
+    }
+  }
+]
